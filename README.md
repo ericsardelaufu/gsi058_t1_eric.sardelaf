@@ -1,3 +1,5 @@
 # gsi058_t1_eric.sardelaf
 
-Arquivos de práticas - Lab da matéria Processamento Digital de Imagens
+## GSI-058 - Processamento Digital de Imagens
+
+Arquivos com resolução das atividades práticas
